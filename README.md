@@ -3,28 +3,28 @@
 A simple, responsive React app to manage and track job applications.  
 Built with beginner-friendly React patterns and deployed via Netlify.
 
-## 🔧 Features
+## Features
 
-- ✅ Add new job applications (title, company, status, date applied)
-- ✏️ Edit job entries inline
-- 🗑️ Delete entries
-- 🔍 Filter by application status
-- 📅 Sort by date, title, or status 
-- 💾 Persists data in `localStorage`
-- 📱 Clean UI styled with vanilla CSS
+-  Add new job applications (title, company, status, date applied)
+-  Edit job entries inline
+-  Delete entries
+-  Filter by application status
+-  Sort by date, title, or status 
+-  Persists data in `localStorage`
+-  Clean UI styled with vanilla CSS
 
-## 🚀 Live Demo
-
+## 🚀 Live Demo 
+##  Right-click the link and open in new tab:
 👉 [View live on Netlify](https://shalinib-js.github.io/JobTracker-App/)
 
-## 🖼️ Screenshots
+##  Screenshots
 
 ![JobAppTracker](https://github.com/user-attachments/assets/6a3132b5-2418-438f-8d3f-52fbe4352704)
 
 
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React (via Create React App)
 - HTML + CSS
