@@ -15,7 +15,7 @@ Built with beginner-friendly React patterns and deployed via Netlify.
 
 ## 🚀 Live Demo
 
-👉 [View live on Netlify](https://job-tracker-moe.netlify.app)
+👉 [View live on Netlify](https://shalinib-js.github.io/JobTracker-App/)
 
 ## 🖼️ Screenshots
 
