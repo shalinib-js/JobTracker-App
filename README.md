@@ -9,7 +9,7 @@ Built with beginner-friendly React patterns and deployed via Netlify.
 - ✏️ Edit job entries inline
 - 🗑️ Delete entries
 - 🔍 Filter by application status
-- 📅 Sort by date, title, or status (ascending/descending)
+- 📅 Sort by date, title, or status 
 - 💾 Persists data in `localStorage`
 - 📱 Clean UI styled with vanilla CSS
 
