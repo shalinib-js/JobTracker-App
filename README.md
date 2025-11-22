@@ -20,7 +20,7 @@ Built with beginner-friendly React patterns and deployed via Netlify.
 ## 🖼️ Screenshots
 
 
-(screenshots/mai![JobAppTracker](https://github.com/user-attachments/assets/4df5453a-582f-4e90-8c46-d569d2013dec)
+[JobAppTracker](https://github.com/user-attachments/assets/4df5453a-582f-4e90-8c46-d569d2013dec)
 
 
 ## 🛠️ Tech Stack
