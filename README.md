@@ -21,7 +21,7 @@ Built with beginner-friendly React patterns and deployed via Netlify.
 
 | Main View | Edit Mode |
 |-----------|-----------|
-| ![Main view](screenshots/main.png) | ![Edit mode](screenshots/edit.png) |
+| ![Main view](screenshots/mai![JobAppTracker](https://github.com/user-attachments/assets/4df5453a-582f-4e90-8c46-d569d2013dec)
 
 
 ## 🛠️ Tech Stack
