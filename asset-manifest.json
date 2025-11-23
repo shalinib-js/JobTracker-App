@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/shalinib-js/JobTracker-App/static/css/main.b1afa2df.css",
-    "main.js": "/shalinib-js/JobTracker-App/static/js/main.779f7a5b.js",
-    "index.html": "/shalinib-js/JobTracker-App/index.html",
-    "main.b1afa2df.css.map": "/shalinib-js/JobTracker-App/static/css/main.b1afa2df.css.map",
-    "main.779f7a5b.js.map": "/shalinib-js/JobTracker-App/static/js/main.779f7a5b.js.map"
+    "main.css": "/JobTracker-App/static/css/main.b1afa2df.css",
+    "main.js": "/JobTracker-App/static/js/main.779f7a5b.js",
+    "index.html": "/JobTracker-App/index.html",
+    "main.b1afa2df.css.map": "/JobTracker-App/static/css/main.b1afa2df.css.map",
+    "main.779f7a5b.js.map": "/JobTracker-App/static/js/main.779f7a5b.js.map"
   },
   "entrypoints": [
     "static/css/main.b1afa2df.css",
