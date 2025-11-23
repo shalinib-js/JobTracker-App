@@ -14,8 +14,8 @@ Built with beginner-friendly React patterns and deployed via Netlify.
 -  Clean UI styled with vanilla CSS
 
 ## 🚀 Live Demo 
-##  Right-click the link and open in new tab:
-👉 [View live on Netlify](https://shalinib-js.github.io/JobTracker-App/)
+ - Right-click the link and open in new tab:
+ - 👉 [View live on Netlify](https://shalinib-js.github.io/JobTracker-App/)
 
 ##  Screenshots
 
